@@ -44,7 +44,7 @@
 ## 040 数据结构与算法
 ### 041 基础数据结构
 - 线性表
-- [散列表](https://github.com/PractiseForTwoAndHalfYear/AndroidKnowMap.github.io/notes/#000计算机基础/散列表.md)
+- [散列表](https://github.com/PractiseForTwoAndHalfYear/AndroidKnowMap.github.io/blob/main/notes/%23000计算机基础/散列表.md)
 - 队列
 - 栈
 - 二叉树
